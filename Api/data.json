@@ -1,0 +1,194 @@
+{
+  "orderapi": [
+    {
+      "id": "7239",
+      "cname": "Taufiq",
+      "mobile": "07767076001",
+      "email": "4292@gmail.com",
+      "address": "Goa",
+      "myproduct": [
+        {
+          "id": "d04c",
+          "photo": "https://th.bing.com/th/id/OIP.KyrBu1s2mkrqDl3Bdo8QtAHaHa?w=204&h=204&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+          "pname": "Iphone 14",
+          "pprice": "65000",
+          "pdetails": "Best to use",
+          "qty": 1
+        },
+        {
+          "id": "466a",
+          "pname": "Beautiful Scene",
+          "pprice": "500",
+          "photo": "4.jpg",
+          "pdetails": "Once we see it feels like to see everytime",
+          "qty": 1
+        }
+      ],
+      "orderdate": "27/10/2024, 9:34:54 am"
+    },
+    {
+      "id": "a702",
+      "cname": "Ramesh",
+      "mobile": "98877767567",
+      "address": "Mumbai",
+      "email": "user2@gmail.com",
+      "myproduct": [
+        {
+          "id": "cd5f",
+          "photo": "https://th.bing.com/th/id/OIP.vaO_CjsIaORypP4aAI8otAHaHa?rs=1&pid=ImgDetMain",
+          "pprice": "799",
+          "pname": "Puma Tshirt",
+          "pdetails": "Mens Tshirt",
+          "qty": 1
+        },
+        {
+          "id": "0fed",
+          "photo": "https://assets.products-live.ao.com/Images/6693f52d-76b4-4e74-ade6-201610f105b2/1280x1280/NM111064WCAUKN_WH_hotpoint_washingmachine_06.jpg",
+          "pprice": "11000",
+          "pname": "Washing Machine",
+          "pdetails": "Washes clothes smoothly with any scretch",
+          "qty": 1
+        },
+        {
+          "id": "aa2e",
+          "photo": "https://p2-ofp.static.pub//fes/cms/2023/08/16/iutq4rio1br7mpt6uk1b8bfzhxyhph475181.png",
+          "pname": "Lenovo Laptop",
+          "pprice": "25000",
+          "pdetails": "Smooth to use",
+          "qty": 1
+        },
+        {
+          "id": "9bd3",
+          "pname": "Air Pods Pro Max",
+          "pprice": "45000",
+          "photo": "https://www.bhphotovideo.com/images/images2500x2500/apple_mgyj3am_a_airpods_max_silver_1610234.jpg",
+          "pdetails": "Best Sound Quality",
+          "qty": 1
+        }
+      ],
+      "orderdate": "30/10/2024, 11:45:58 am"
+    }
+  ],
+  "sellerapi": [
+    {
+      "id": "65c9",
+      "fullName": "Taufiq Narangi",
+      "email": "user2@gmail.com",
+      "password": "5678",
+      "mobile": "7767076001"
+    },
+    {
+      "id": "55e7",
+      "fullName": "Taufiq Narangi",
+      "email": "user1@gmail.com",
+      "password": "1234",
+      "mobile": "7767076001"
+    }
+  ],
+  "cartapi": [
+    {
+      "id": "cd5f",
+      "photo": "https://th.bing.com/th/id/OIP.vaO_CjsIaORypP4aAI8otAHaHa?rs=1&pid=ImgDetMain",
+      "pprice": "799",
+      "pname": "Puma Tshirt",
+      "pdetails": "Mens Tshirt",
+      "qty": 1
+    },
+    {
+      "id": "0fed",
+      "photo": "https://assets.products-live.ao.com/Images/6693f52d-76b4-4e74-ade6-201610f105b2/1280x1280/NM111064WCAUKN_WH_hotpoint_washingmachine_06.jpg",
+      "pprice": "11000",
+      "pname": "Washing Machine",
+      "pdetails": "Washes clothes smoothly with any scretch",
+      "qty": 1
+    },
+    {
+      "id": "aa2e",
+      "photo": "https://p2-ofp.static.pub//fes/cms/2023/08/16/iutq4rio1br7mpt6uk1b8bfzhxyhph475181.png",
+      "pname": "Lenovo Laptop",
+      "pprice": "25000",
+      "pdetails": "Smooth to use",
+      "qty": 1
+    },
+    {
+      "id": "9bd3",
+      "pname": "Air Pods Pro Max",
+      "pprice": "45000",
+      "photo": "https://www.bhphotovideo.com/images/images2500x2500/apple_mgyj3am_a_airpods_max_silver_1610234.jpg",
+      "pdetails": "Best Sound Quality",
+      "qty": 1
+    }
+  ],
+  "productlist": [
+    {
+      "id": "466a",
+      "pname": "Beautiful Scene",
+      "pprice": "500",
+      "photo": "4.jpg",
+      "pdetails": "Once we see it feels like to see everytime"
+    },
+    {
+      "id": "d04c",
+      "photo": "https://th.bing.com/th/id/OIP.KyrBu1s2mkrqDl3Bdo8QtAHaHa?w=204&h=204&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "pname": "Iphone 14",
+      "pprice": "65000",
+      "pdetails": "Best to use"
+    },
+    {
+      "id": "aa2e",
+      "photo": "https://p2-ofp.static.pub//fes/cms/2023/08/16/iutq4rio1br7mpt6uk1b8bfzhxyhph475181.png",
+      "pname": "Lenovo Laptop",
+      "pprice": "25000",
+      "pdetails": "Smooth to use"
+    },
+    {
+      "id": "9bd3",
+      "pname": "Air Pods Pro Max",
+      "pprice": "45000",
+      "photo": "https://www.bhphotovideo.com/images/images2500x2500/apple_mgyj3am_a_airpods_max_silver_1610234.jpg",
+      "pdetails": "Best Sound Quality"
+    },
+    {
+      "id": "7511",
+      "photo": "https://th.bing.com/th/id/OIP.K3B8erFxiVzqC6oFiSpJFAHaG5?rs=1&pid=ImgDetMain",
+      "pname": "Nike Shoes",
+      "pprice": "4999",
+      "pdetails": "Blue and white combination shoe"
+    },
+    {
+      "id": "e39b",
+      "photo": "https://photos5.appleinsider.com/gallery/49298-96697-MacBook-Air-Closed-on-Desk-xl.jpg",
+      "pprice": "75000",
+      "pname": "Makbook Air M2",
+      "pdetails": "New Addition"
+    },
+    {
+      "id": "9624",
+      "photo": "https://ae01.alicdn.com/kf/HTB1tJ8GIuOSBuNjy0Fdq6zDnVXac/Oval-Shaped-Pearl-Beaded-Handbag-Women-White-Clutch-Bag-Elegant-Long-Chain-Shoulder-Handbags-Wedding-Bridal.jpg",
+      "pprice": "999",
+      "pname": "Pearl Beaded Handbag",
+      "pdetails": "Pich colour handbag for ladies"
+    },
+    {
+      "id": "cd5f",
+      "photo": "https://th.bing.com/th/id/OIP.vaO_CjsIaORypP4aAI8otAHaHa?rs=1&pid=ImgDetMain",
+      "pprice": "799",
+      "pname": "Puma Tshirt",
+      "pdetails": "Mens Tshirt"
+    },
+    {
+      "id": "0fed",
+      "photo": "https://assets.products-live.ao.com/Images/6693f52d-76b4-4e74-ade6-201610f105b2/1280x1280/NM111064WCAUKN_WH_hotpoint_washingmachine_06.jpg",
+      "pprice": "11000",
+      "pname": "Washing Machine",
+      "pdetails": "Washes clothes smoothly with any scretch"
+    },
+    {
+      "id": "4106",
+      "photo": "https://i.pcmag.com/imagery/roundups/05UuGuaC1DeBtIUmi0vstl3-15..v1674505590.jpg",
+      "pprice": "2000",
+      "pname": "Acer Mouse",
+      "pdetails": "Gaming mouse"
+    }
+  ]
+}
